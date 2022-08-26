@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JavaDesignPatterns-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MediatorDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TemplateMethodPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BuilderInterfaceDesignPatter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IteratorPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MVCDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Stratey1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/StrategyPattern2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/InterpreterDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AdapterPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ChainOfResponsibility.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BridgeDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SingletonPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FlyWeightDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CommandPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FactoryPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MementoDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PrototypeDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteProxyDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DecoratorPatternProjecct.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FacadePattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BuilderDesignPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObserverPattern.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
